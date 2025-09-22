@@ -1,0 +1,53 @@
+body {
+    background-image: url("imagens/fundo.png");
+    background-attachment: fixed;
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.capa {
+    width: 105%;
+    height: auto;
+    margin-top: -2%;
+    margin-left: -2.5%;
+    background-image: url("imagens/capa.png");
+  } 
+a {
+    text-decoration: none;
+    color: #3e3e5c;
+
+}
+.linkGroup {
+    margin-left: -2.5%;
+    margin-right: -2.5%;
+    margin-top: 0.25%;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:  rgb(166 165 142 / 91%);
+    background-size:50em; ;
+    padding: 20px; 
+    margin-bottom: 0.0625%;
+}
+.about {
+    background-color: rgba(221, 220, 200, 0.91);
+    padding: 10px;
+    margin-left: -2.5%;
+    margin-right: -2.5%;
+   
+}
+footer {
+    text-align:  center;
+    font-size: 17.2px;
+    bottom: 0;
+    width: 100%;
+    padding: 0px;
+    margin-top: 2%;
+}
+.campaign {
+    border: 7px rgba(182, 181, 165, 0.91) inset;
+    border-radius: 3px;
+}
+h1 {
+    color: #999883;
+    font-size: 22px;
+}
